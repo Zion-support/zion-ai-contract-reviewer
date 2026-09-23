@@ -1,10 +1,17 @@
-# Zion AI Contract Reviewer
+# Zion AI Contract Reviewer — Zion App Network
 
-NDA/MSA/SOW clause-level risk scoring.
+Zion AI Contract Reviewer — NDA/MSA/SOW clause-level risk scoring and redlining. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) · [zion-ai-contract-review](https://github.com/Zion-support/zion-ai-contract-review) · [contract-clause-reviewer](https://github.com/Zion-support/contract-clause-reviewer) · [ai-legal-advisor](https://github.com/Zion-support/ai-legal-advisor) · [zion-ai-legal-ops](https://github.com/Zion-support/zion-ai-legal-ops)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-contract-reviewer](https://ziontechgroup.com/zion-ai-contract-reviewer)
+- 🏠 Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Contract Guardian](https://github.com/Zion-support/zion-ai-contract-guardian) — clause extraction and SLA verification
+- [Zion AI Contract Review](https://github.com/Zion-support/zion-ai-contract-review) — contract intelligence
+- [Contract Clause Reviewer](https://github.com/Zion-support/contract-clause-reviewer) — flag risky IT/AI clauses
+- [Zion AI Legal Ops](https://github.com/Zion-support/zion-ai-legal-ops) — matter management and e-discovery
+- [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk) — third-party risk assessments
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
